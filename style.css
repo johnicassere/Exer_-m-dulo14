@@ -1,5 +1,6 @@
 body{
     font-family: Roboto,sans serif;
+    background-color: #e6cff1;
 }
 img{
     max-height: 1200px;
@@ -28,6 +29,10 @@ img{
     list-style: none;
     text-decoration: none;
     color: #fff;
+}
+.social-links li{
+    display: flex;
+    list-style: none;
 }
 .carousel-item img{
     width: 100%;
