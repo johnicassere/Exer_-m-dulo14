@@ -47,4 +47,7 @@ img{
     .carousel-item img{
         height: 280px;
     }
+    .social-links li{
+        display: contents;
+    }
     }
