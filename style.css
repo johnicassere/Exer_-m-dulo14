@@ -30,8 +30,10 @@ img{
     text-decoration: none;
     color: #fff;
 }
-.social-links li{
+.social-links{
     display: flex;
+}
+.social-links li{
     list-style: none;
 }
 .carousel-item img{
